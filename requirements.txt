@@ -1,0 +1,4 @@
+pandas==1.5.3
+openpyxl==3.1.2
+pillow==9.5.0
+# tkinter viene incluido en la instalación estándar de Python 

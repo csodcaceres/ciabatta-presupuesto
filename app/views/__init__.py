@@ -1,0 +1,1 @@
+# Este archivo permite que el directorio 'views' sea tratado como un paquete Python 
